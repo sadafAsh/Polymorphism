@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="316162d0-1658-4b9b-af21-622461134310" name="Default Changelist" comment="" />
+    <list default="true" id="316162d0-1658-4b9b-af21-622461134310" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +52,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="25No4WphIy3Y0BlIGYg5Ek75J46" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -59,6 +65,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
     <property name="settings.editor.selected.configurable" value="configurable.group.other" />
   </component>
@@ -67,7 +74,7 @@
       <recent name="C:\sadaf\Polymorphism\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.Polymorphism [build]">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.soj.polymorphism.Main" />
       <module name="Polymorphism.main" />
@@ -141,21 +148,21 @@
       <screen x="0" y="0" width="1368" height="720" />
     </state>
     <state x="414" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1368.720@0.0.1368.720" timestamp="1645386552023" />
-    <state width="1325" height="173" key="GridCell.Tab.0.bottom" timestamp="1645390647999">
+    <state width="1325" height="173" key="GridCell.Tab.0.bottom" timestamp="1645390993471">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
-    <state width="1325" height="173" key="GridCell.Tab.0.bottom/0.0.1368.720@0.0.1368.720" timestamp="1645390647999" />
-    <state width="1325" height="173" key="GridCell.Tab.0.center" timestamp="1645390647999">
+    <state width="1325" height="173" key="GridCell.Tab.0.bottom/0.0.1368.720@0.0.1368.720" timestamp="1645390993471" />
+    <state width="1325" height="173" key="GridCell.Tab.0.center" timestamp="1645390993471">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
-    <state width="1325" height="173" key="GridCell.Tab.0.center/0.0.1368.720@0.0.1368.720" timestamp="1645390647999" />
-    <state width="1325" height="173" key="GridCell.Tab.0.left" timestamp="1645390647999">
+    <state width="1325" height="173" key="GridCell.Tab.0.center/0.0.1368.720@0.0.1368.720" timestamp="1645390993471" />
+    <state width="1325" height="173" key="GridCell.Tab.0.left" timestamp="1645390993471">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
-    <state width="1325" height="173" key="GridCell.Tab.0.left/0.0.1368.720@0.0.1368.720" timestamp="1645390647999" />
-    <state width="1325" height="173" key="GridCell.Tab.0.right" timestamp="1645390647999">
+    <state width="1325" height="173" key="GridCell.Tab.0.left/0.0.1368.720@0.0.1368.720" timestamp="1645390993471" />
+    <state width="1325" height="173" key="GridCell.Tab.0.right" timestamp="1645390993471">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
-    <state width="1325" height="173" key="GridCell.Tab.0.right/0.0.1368.720@0.0.1368.720" timestamp="1645390647999" />
+    <state width="1325" height="173" key="GridCell.Tab.0.right/0.0.1368.720@0.0.1368.720" timestamp="1645390993471" />
   </component>
 </project>
