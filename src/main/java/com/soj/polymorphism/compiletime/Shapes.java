@@ -6,14 +6,14 @@ import org.apache.logging.log4j.Logger;
 public class Shapes {
     static final Logger logger= LogManager.getLogger(Shapes.class.getName());
 
-
-
     public  double area(int r){
         return  3.14*r*r;
     }
-    public double area(int l,int b){
+
+    public double area(int l,double b){
         return l*b;
     }
+
     public double area(double b,double h){
         return 0.5*b*h;
     }
