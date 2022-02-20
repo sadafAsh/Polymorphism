@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.soj.polymorphism.runtime.SalaryTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-02-20T23:29:58" hostname="DESKTOP-H3C67DB" time="0.014">
+  <properties/>
+  <testcase name="testToSetSalary()" classname="com.soj.polymorphism.runtime.SalaryTest" time="0.001"/>
+  <testcase name="testToGetSalary()" classname="com.soj.polymorphism.runtime.SalaryTest" time="0.001"/>
+  <testcase name="testForMailCheck()" classname="com.soj.polymorphism.runtime.SalaryTest" time="0.006"/>
+  <testcase name="testToSetSalaryNotEquals()" classname="com.soj.polymorphism.runtime.SalaryTest" time="0.001"/>
+  <testcase name="testOfComputePayForSalary()" classname="com.soj.polymorphism.runtime.SalaryTest" time="0.004"/>
+  <system-out><![CDATA[DEBUG [Test worker] 2022-02-20T23:29:58,409  (line ) Within mailCheck of Salary Class 
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
