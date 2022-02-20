@@ -1,0 +1,12 @@
+DEBUG [main] 2022-02-20T20:56:50,231  (line ) Area of Circle : 12.56
+DEBUG [main] 2022-02-20T20:56:50,232  (line ) Area of Triangle : 1.15
+DEBUG [main] 2022-02-20T20:56:50,232  (line ) Area of Reactangle : 24.0
+ INFO [main] 2022-02-20T20:56:50,232  (line ) ...........................
+DEBUG [main] 2022-02-20T20:56:50,233  (line ) Call mailCheck using Salary reference --
+DEBUG [main] 2022-02-20T20:56:50,233  (line ) Within mailCheck of Salary Class 
+DEBUG [main] 2022-02-20T20:56:50,233  (line ) Mailing a check to Jikar with salary 3600.0
+DEBUG [main] 2022-02-20T20:56:50,233  (line ) Call mailCheck using Employee reference--
+DEBUG [main] 2022-02-20T20:56:50,233  (line ) Within mailCheck of Salary Class 
+DEBUG [main] 2022-02-20T20:56:50,233  (line ) Mailing a check to Asif with salary 2400.0
+DEBUG [main] 2022-02-20T20:56:50,233  (line ) Computing salary pay for Jikar
+DEBUG [main] 2022-02-20T20:56:50,233  (line ) 69.23076923076923
