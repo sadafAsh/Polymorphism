@@ -2,40 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="316162d0-1658-4b9b-af21-622461134310" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/soj/polymorphism/runtime/EmployeeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/soj/polymorphism/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/soj/polymorphism/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/soj/polymorphism/runtime/EmployeeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/soj/polymorphism/runtime/EmployeeTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/jacoco/test.exec" beforeDir="false" afterPath="$PROJECT_DIR$/build/jacoco/test.exec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/Polymorphism-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/Polymorphism-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/jacoco-sessions.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/jacoco-sessions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/jacocoTestReport.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/jacocoTestReport.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.soj.polymorphism.compiletime.ShapesTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/com.soj.polymorphism.compiletime.ShapesTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.soj.polymorphism.runtime.EmployeeTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/com.soj.polymorphism.runtime.EmployeeTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.soj.polymorphism.runtime.SalaryTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/com.soj.polymorphism.runtime.SalaryTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.soj.polymorphism.compiletime.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/com.soj.polymorphism.compiletime.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.soj.polymorphism.runtime.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/com.soj.polymorphism.runtime.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/sonar/report-task.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/sonar/report-task.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.soj.polymorphism.compiletime.ShapesTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-com.soj.polymorphism.compiletime.ShapesTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.soj.polymorphism.runtime.EmployeeTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-com.soj.polymorphism.runtime.EmployeeTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.soj.polymorphism.runtime.SalaryTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-com.soj.polymorphism.runtime.SalaryTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/javaJourney.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/javaJourney.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +78,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MVCDesignPattern" />
     <property name="settings.editor.selected.configurable" value="configurable.group.other" />
   </component>
   <component name="RecentsManager">
@@ -222,10 +192,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.Polymorphism [sonarqube]" />
         <item itemvalue="Gradle.Polymorphism [build]" />
         <item itemvalue="Gradle.ShapesTest.testForAreaOfSquare" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Gradle.Polymorphism [sonarqube]" />
         <item itemvalue="Gradle.SalaryTest.testToSetSalaryNotEquals" />
       </list>
     </recent_temporary>
@@ -267,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645400270751</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=" commit">
+      <created>1645401319850</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1645401319850</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -284,26 +261,34 @@
       <screen x="0" y="0" width="1368" height="720" />
     </state>
     <state x="414" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1368.720@0.0.1368.720" timestamp="1645386552023" />
-    <state x="351" y="0" key="CommitChangelistDialog2" timestamp="1645400270154">
+    <state x="351" y="0" key="CommitChangelistDialog2" timestamp="1645401319209">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
-    <state x="351" y="0" key="CommitChangelistDialog2/0.0.1368.720@0.0.1368.720" timestamp="1645400270154" />
-    <state width="1325" height="173" key="GridCell.Tab.0.bottom" timestamp="1645401310744">
-      <screen x="0" y="0" width="1368" height="720" />
+    <state x="351" y="0" key="CommitChangelistDialog2/0.0.1368.720@0.0.1368.720" timestamp="1645401319209" />
+    <state x="740" y="273" key="FileChooserDialogImpl" timestamp="1645441180486">
+      <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1325" height="173" key="GridCell.Tab.0.bottom/0.0.1368.720@0.0.1368.720" timestamp="1645401310744" />
-    <state width="1325" height="173" key="GridCell.Tab.0.center" timestamp="1645401310744">
-      <screen x="0" y="0" width="1368" height="720" />
+    <state x="740" y="273" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1645441180486" />
+    <state width="1877" height="173" key="GridCell.Tab.0.bottom" timestamp="1645480962733">
+      <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1325" height="173" key="GridCell.Tab.0.center/0.0.1368.720@0.0.1368.720" timestamp="1645401310744" />
-    <state width="1325" height="173" key="GridCell.Tab.0.left" timestamp="1645401310744">
-      <screen x="0" y="0" width="1368" height="720" />
+    <state width="1325" height="173" key="GridCell.Tab.0.bottom/0.0.1368.720@0.0.1368.720" timestamp="1645401357285" />
+    <state width="1877" height="173" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1645480962733" />
+    <state width="1877" height="173" key="GridCell.Tab.0.center" timestamp="1645480962733">
+      <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1325" height="173" key="GridCell.Tab.0.left/0.0.1368.720@0.0.1368.720" timestamp="1645401310744" />
-    <state width="1325" height="173" key="GridCell.Tab.0.right" timestamp="1645401310744">
-      <screen x="0" y="0" width="1368" height="720" />
+    <state width="1325" height="173" key="GridCell.Tab.0.center/0.0.1368.720@0.0.1368.720" timestamp="1645401357285" />
+    <state width="1877" height="173" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1645480962733" />
+    <state width="1877" height="173" key="GridCell.Tab.0.left" timestamp="1645480962733">
+      <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1325" height="173" key="GridCell.Tab.0.right/0.0.1368.720@0.0.1368.720" timestamp="1645401310744" />
+    <state width="1325" height="173" key="GridCell.Tab.0.left/0.0.1368.720@0.0.1368.720" timestamp="1645401357285" />
+    <state width="1877" height="173" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1645480962733" />
+    <state width="1877" height="173" key="GridCell.Tab.0.right" timestamp="1645480962733">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1325" height="173" key="GridCell.Tab.0.right/0.0.1368.720@0.0.1368.720" timestamp="1645401357285" />
+    <state width="1877" height="173" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1645480962733" />
     <state width="1325" height="220" key="GridCell.Tab.1.bottom" timestamp="1645399133446">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
@@ -320,21 +305,25 @@
       <screen x="0" y="0" width="1368" height="720" />
     </state>
     <state width="1325" height="220" key="GridCell.Tab.1.right/0.0.1368.720@0.0.1368.720" timestamp="1645399133446" />
-    <state x="276" y="95" key="Vcs.Push.Dialog.v2" timestamp="1645400280299">
+    <state x="276" y="95" key="Vcs.Push.Dialog.v2" timestamp="1645401327540">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
-    <state x="276" y="95" key="Vcs.Push.Dialog.v2/0.0.1368.720@0.0.1368.720" timestamp="1645400280299" />
+    <state x="276" y="95" key="Vcs.Push.Dialog.v2/0.0.1368.720@0.0.1368.720" timestamp="1645401327540" />
     <state x="447" y="92" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1645400525846">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
     <state x="447" y="92" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1368.720@0.0.1368.720" timestamp="1645400525846" />
-    <state x="400" y="163" key="git4idea.merge.GitPullDialog" timestamp="1645400304558">
+    <state x="400" y="163" key="git4idea.merge.GitPullDialog" timestamp="1645401343461">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
-    <state x="400" y="163" key="git4idea.merge.GitPullDialog/0.0.1368.720@0.0.1368.720" timestamp="1645400304558" />
-    <state x="340" y="160" width="672" height="677" key="run.anything.popup" timestamp="1645401259875">
+    <state x="400" y="163" key="git4idea.merge.GitPullDialog/0.0.1368.720@0.0.1368.720" timestamp="1645401343461" />
+    <state x="342" y="133" key="new project wizard" timestamp="1645440408756">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="342" y="133" key="new project wizard/0.0.1920.1032@0.0.1920.1032" timestamp="1645440408756" />
+    <state x="340" y="160" width="672" height="677" key="run.anything.popup" timestamp="1645401357162">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
-    <state x="340" y="160" width="672" height="677" key="run.anything.popup/0.0.1368.720@0.0.1368.720" timestamp="1645401259875" />
+    <state x="340" y="160" width="672" height="677" key="run.anything.popup/0.0.1368.720@0.0.1368.720" timestamp="1645401357162" />
   </component>
 </project>
